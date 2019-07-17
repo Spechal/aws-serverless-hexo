@@ -13,7 +13,7 @@ variable "tags" {
 
 variable "aws_profile" {
   type    = "string"
-  default = "personal"
+  default = "default"
 }
 
 variable "aws_region" {
